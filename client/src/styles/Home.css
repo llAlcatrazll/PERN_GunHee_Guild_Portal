@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Quantico:wght@400;700&display=swap');
+@import "tailwindcss";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Quantico';
+}
+
+.quantico-regular {
+    font-family: "Quantico", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.quantico-bold {
+    font-family: "Quantico";
+    font-weight: 700;
+    font-style: normal;
+}
+
+.quantico-regular-italic {
+    font-family: "Quantico", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.quantico-bold-italic {
+    font-family: "Quantico", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
