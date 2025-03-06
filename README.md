@@ -7,15 +7,15 @@ erDiagram
 
 Set_Effect {
     int id pk
-    string 2pc_effect
-    string 4pc_effect
-    string 8pc_effect
+    string 2pcEffect
+    string 4pcEffect
+    string 8pcEffect
 }
 Artifact {
     int id pk
     string icon
     string name
-    string set_name
+    string setName
     string part
     string description
 }
