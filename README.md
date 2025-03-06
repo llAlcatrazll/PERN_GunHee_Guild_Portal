@@ -1,3 +1,5 @@
+##ER Diagram
+```mermaid
 erDiagram
 
     Artifact ||--|{ Substat : has
